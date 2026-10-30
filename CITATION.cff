@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use these data or this code, please cite the paper and this repository."
 title: "The reference is the bottleneck in UAV-based apple flower detection: data, annotations and code"
 type: dataset
+doi: 10.5281/zenodo.23806339
 version: 1.0.0
 date-released: 2026-10-30
 license: [MIT, CC-BY-4.0]

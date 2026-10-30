@@ -1,5 +1,7 @@
 # The reference is the bottleneck in UAV-based apple flower detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23806339.svg)](https://doi.org/10.5281/zenodo.23806339)
+
 Data, annotations, raw predictions and code for
 
 > Nerlich, K. M.: The reference is the bottleneck in UAV-based apple flower detection. 47. GIL-Jahrestagung 2027,
@@ -133,4 +135,5 @@ which is licensed under AGPL-3.0.
 
 ## Citation
 
-See `CITATION.cff`. Please cite the paper above and this repository.
+See `CITATION.cff`. Please cite the paper above and this repository:
+https://doi.org/10.5281/zenodo.23806339 (all versions).
