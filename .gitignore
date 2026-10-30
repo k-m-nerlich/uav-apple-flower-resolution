@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+# unpacked raw predictions (scripts/entpacken.py), weights and caches created by the scripts
+ergebnisse/*/vorhersagen/
+ergebnisse/*/laeufe/
+ergebnisse/*/logs/
+datensaetze_kv/
+merkmale/
+runs/
+*.pt
+paper/

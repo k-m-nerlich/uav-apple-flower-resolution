@@ -1,0 +1,53 @@
+{
+ "stufen": [
+  "h051",
+  "h088",
+  "h107",
+  "h148",
+  "h167"
+ ],
+ "gsd_gemessen": [
+  1.714,
+  2.957,
+  3.596,
+  4.974,
+  5.613
+ ],
+ "seeds_je_stufe": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "kacheln": 36,
+ "bootstrap_einheiten": 16,
+ "bootstrap": 2000,
+ "marge_f1": 0.05,
+ "steigung_f1_je_mm": -0.003276931651507499,
+ "steigung_ki95": [
+  -0.0073714458114735835,
+  0.0008612593560394736
+ ],
+ "aenderung_ueber_bereich": -0.01277675650922774,
+ "aenderung_ueber_bereich_ki90": [
+  -0.02578313535013985,
+  0.00049108423787753
+ ],
+ "differenz_grob_minus_fein": -0.010814101322957015,
+ "differenz_ki90": [
+  -0.02332039182038531,
+  0.002988315134173385
+ ],
+ "differenz_ki95": [
+  -0.02581388630180265,
+  0.005323221484676252
+ ],
+ "spanne_stufenmittel": 0.013466910189650516,
+ "spanne_stufenmittel_ki95": [
+  0.007877326431619184,
+  0.03658107046778146
+ ],
+ "aequivalent_differenz": true,
+ "aequivalent_steigung": true
+}

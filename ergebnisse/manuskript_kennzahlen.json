@@ -1,0 +1,35 @@
+{
+ "modell_gegen_b_r16": {
+  "f1": 0.1902536867430355,
+  "sd": 0.01034455414626393,
+  "precision": 0.1127796554877419,
+  "recall": 0.6106382978723405
+ },
+ "mehrstufig_zaehleinheit": {
+  "5.1": {
+   "punkte": 494,
+   "nn_median_mm": 43.26850901253266,
+   "unsicher_anteil": 0.02564102564102564
+  },
+  "8.8": {
+   "punkte": 456,
+   "nn_median_mm": 45.81578424697959,
+   "unsicher_anteil": 0.0379746835443038
+  },
+  "10.7": {
+   "punkte": 448,
+   "nn_median_mm": 47.36635301870639,
+   "unsicher_anteil": 0.028199566160520606
+  },
+  "14.8": {
+   "punkte": 399,
+   "nn_median_mm": 50.68700788454162,
+   "unsicher_anteil": 0.06557377049180328
+  },
+  "16.7": {
+   "punkte": 375,
+   "nn_median_mm": 52.314787639988936,
+   "unsicher_anteil": 0.07635467980295567
+  }
+ }
+}

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the paper and this repository."
+title: "The reference is the bottleneck in UAV-based apple flower detection: data, annotations and code"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-30
+license: [MIT, CC-BY-4.0]
+authors:
+  - family-names: Nerlich
+    given-names: Kay Maximilian
+    affiliation: "Universität Leipzig, Institut für Wirtschaftsinformatik"
+keywords:
+  - precision horticulture
+  - unmanned aerial vehicle
+  - flower detection
+  - ground sampling distance
+  - annotation reliability
+preferred-citation:
+  type: conference-paper
+  title: "The reference is the bottleneck in UAV-based apple flower detection"
+  authors:
+    - family-names: Nerlich
+      given-names: Kay Maximilian
+      affiliation: "Universität Leipzig, Institut für Wirtschaftsinformatik"
+  collection-title: "47. GIL-Jahrestagung"
+  publisher:
+    name: "Gesellschaft für Informatik e.V."
+  year: 2027

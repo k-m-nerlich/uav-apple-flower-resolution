@@ -1,0 +1,16 @@
+mm_pro_px,lauf,plattform,f1,recall_fix,quelle
+1.91,s0,Mac/MPS,0.5354,,pro_stufe.csv
+1.91,s1/s2,Mac/MPS,0.5092,,streuung.csv (min/max)
+1.91,s1/s2,Mac/MPS,0.528,,streuung.csv (aus Mittel)
+3.3,s0,Mac/MPS,0.4565,0.879,pro_stufe.csv
+3.3,s1,PC/CUDA,0.5313,0.879,pro_stufe_s1_h088.csv
+3.3,s2,PC/CUDA,0.5142,0.9136,pro_stufe_s2_h088.csv
+4.01,s0,Mac/MPS,0.4717,0.8531,pro_stufe.csv
+4.01,s1,PC/CUDA,0.527,0.9201,pro_stufe_s1_h107.csv
+4.01,s2,PC/CUDA,0.5534,0.933,pro_stufe_s2_h107.csv
+5.55,s0,Mac/MPS,0.5358,0.9136,pro_stufe.csv
+5.55,s1,PC/CUDA,0.5416,0.9201,pro_stufe_s1_h148.csv
+5.55,s2,PC/CUDA,0.5268,0.9222,pro_stufe_s2_h148.csv
+6.26,s0,Mac/MPS,0.5034,,pro_stufe.csv
+6.26,s1,Mac/MPS,0.4657,,pro_stufe_s1.csv
+6.26,s2,Mac/MPS,0.5899,,pro_stufe_s2.csv

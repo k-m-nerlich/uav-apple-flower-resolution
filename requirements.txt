@@ -1,0 +1,11 @@
+# Versions used for the paper (Python 3.12, Windows 11, CUDA 12.8, RTX 5090).
+# For CUDA builds of torch see https://pytorch.org (e.g. --index-url .../cu128).
+torch==2.11.0
+torchvision==0.26.0
+ultralytics==8.4.118
+transformers==5.20.2
+numpy==2.5.2
+opencv-python==5.0.0.93
+pillow==12.3.0
+matplotlib==3.11.2
+pyyaml==6.0.3

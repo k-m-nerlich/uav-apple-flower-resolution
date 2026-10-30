@@ -1,0 +1,2 @@
+hoehe_m,mm_pro_px,faktor,geflogen,conf,TP,FP,FN,precision,recall,f1
+8.8,3.3,0.5795,ja,0.2,308,427,155,0.419,0.6652,0.5142
