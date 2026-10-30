@@ -1,0 +1,22 @@
+{
+  "title": "The reference is the bottleneck in UAV-based apple flower detection: data, annotations and code",
+  "upload_type": "dataset",
+  "description": "<p>Data, annotations, raw predictions and code for the paper <i>The reference is the bottleneck in UAV-based apple flower detection</i> (47. GIL-Jahrestagung 2027, Lecture Notes in Informatics).</p><p>The study compares the effect of simulated ground resolution (1.7 to 20 mm/px) on apple flower detection from UAV images with training variability (purged six-fold cross-validation, ten seeds), the choice of method (YOLOv8n/s, frozen DINOv2-small and I-JEPA ViT-H/14 encoders with a heatmap head, colour threshold) and the reliability of the manual reference (blinded repeat, repeat after 53 days, second annotator). Included are 36 image tiles of an Elstar orchard with point annotations of single flowers, 60 degraded tiles of the blinded repeat, 29 tiles of a second orchard, all evaluation results, the raw predictions of every training run and the analysis code. Code: MIT licence; data: CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Nerlich, Kay Maximilian",
+      "affiliation": "Universität Leipzig, Institut für Wirtschaftsinformatik"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "precision horticulture",
+    "unmanned aerial vehicle",
+    "flower detection",
+    "ground sampling distance",
+    "annotation reliability",
+    "apple"
+  ],
+  "language": "eng"
+}
